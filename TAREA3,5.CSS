@@ -1,0 +1,97 @@
+.rectangulo1 {
+    border:5px solid fuchsia;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 20px;
+    width: 1500px;
+    height: 200px;
+    font-family:Courier;
+    font-size: 30px;
+    color: blue;
+    background-color: aquamarine;
+    position: relative;
+    left: 10px;}
+
+.rectangulo2 {
+position:absolute;
+top:60px;
+width: 800px;
+height: 20px;
+left: 350px;
+font-size: 30px;
+padding: 15px;
+font-family:Courier;
+border:5px solid purple;
+color: fuchsia;
+background-color: white;
+}
+
+.rectangulo3 {
+    position:relative;
+    top:230px;
+    width: 1500px;
+    height: 200px;
+    margin-left: 0px;
+    margin-right: 60px;
+    border:5px solid fuchsia;
+    background-color: aquamarine;
+}
+.cuadrito1 {
+    top:550px;
+    width: 250px;
+    height: 250px;
+    left: 70px;
+    font-family:courier;
+    font-size:30px;
+    position:fixed;
+    border: solid fuchsia;
+    color: blue;
+}
+
+.cuadrito2 {
+    top:550px;
+    width: 250px;
+    height: 250px;
+    left: 380px;
+    font-family:courier;
+    font-size:30px;
+    position:fixed;
+    border: solid fuchsia;
+    color: blue;
+}
+
+.cuadrito3 {
+    top:550px;
+    width: 250px;
+    height: 250px;
+    left: 690px;
+    font-family:Courier;
+    font-size:30px;
+    position:fixed;
+    border: solid fuchsia;
+    color: blue;
+}
+
+.cuadrito4 {
+top:550px;
+width: 250px;
+height: 250px;
+left: 1000px;
+font-family:courier;
+font-size:30px;
+position:fixed;
+border: solid fuchsia;
+color: blue;
+}
+
+.cuadrito5 {
+top:550px;
+width: 250px;
+height: 250px;
+left: 1320px;
+font-family:Courier;
+font-size:30px;
+position:fixed;
+border: solid fuchsia;
+color: blue;
+}

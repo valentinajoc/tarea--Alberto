@@ -1,0 +1,139 @@
+
+.top-row
+{
+    border:5px solid purple;
+    width: 100px;
+    height: 100px;
+    padding-top: 5px;
+    padding-left: 5px;
+    font-family: sans-serif;
+    font-size: 30px;
+    display: inline-block;
+    margin-left: 20px;
+    margin-top:20px;
+    color:aqua;
+}
+
+.helado{
+    
+    border:5px solid purple;
+    margin-top: 0px;
+    width: 100px;
+    height: 100px;
+    padding-top: 5px;
+    padding-left: 5px;
+    font-family: sans-serif;
+    font-size: 30px;
+    position:absolute;
+    margin-left: 150px;
+    top:28px;
+    color:aqua;}
+    
+.pancito{
+border: 5px solid purple;
+padding-top: 5px;
+padding-left: 5px;
+width: 100px;
+height: 100px;
+font-family:sans-serif;
+font-size:30px;
+color:aqua;
+top: 28px;
+margin-left: 280px;
+position:absolute;
+
+}
+/*aqui empieza otro bloque*/
+
+.bottom-row
+{
+    border: 5px solid purple;
+    padding-top: 5px;
+    padding-left: 5px;
+    width: 100px;
+    height: 100px;
+    font-family:sans-serif;
+    font-size:30px;
+    color:aqua;
+    top: 150px;
+    margin-left: 20px;
+    position:absolute;}
+
+.gelatina{
+    
+
+    border: 5px solid purple;
+    padding-top: 5px;
+    padding-left: 5px;
+    width: 100px;
+    height: 100px;
+    font-family:sans-serif;
+    font-size:30px;
+    color:aqua;
+    top: 150px;
+    margin-left: 150px;
+    position:absolute;}
+
+.brownie{
+    
+border: 5px solid purple;
+padding-top: 5px;
+padding-left: 5px;
+width: 100px;
+height: 100px;
+font-family:sans-serif;
+font-size:30px;
+color:aqua;
+top: 150px;
+margin-left: 280px;
+position:absolute;
+}
+
+/*otro bloque*/
+
+.bottom-row2{
+
+    border: 5px solid purple;
+    padding-top: 5px;
+    padding-left: 5px;
+    width: 100px;
+    height: 100px;
+    font-family:sans-serif;
+    font-size:30px;
+    color:aqua;
+    top: 270px;
+    margin-left: 20px;
+    position:absolute;
+}
+.torta{
+    
+border: 5px solid purple;
+padding-top: 5px;
+padding-left: 5px;
+width: 100px;
+height: 100px;
+font-family:sans-serif;
+font-size:30px;
+color:aqua;
+top: 270px;
+margin-left: 150px;
+position:absolute;
+}
+.galletas{
+    
+
+    border: 5px solid purple;
+    padding-top: 5px;
+    padding-left: 5px;
+    width: 100px;
+    height: 100px;
+    font-family:sans-serif;
+    font-size:30px;
+    color:aqua;
+    top: 270px;
+    margin-left: 280px;
+    position:absolute;
+}
+
+.inline{
+display:inline-block;}

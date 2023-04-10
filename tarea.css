@@ -1,0 +1,57 @@
+h1{
+    color:blue;
+    font-family:Georgia;
+    font-size: 50px;
+}
+
+
+.top-row{
+    border: 5px solid salmon;
+    margin-right: 20px;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    background-color: gray;
+    animation-name: mianimacion;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+@keyframes mianimacion {
+    0%{background: gray; left:0; top:0px;}
+    25%{background: lightcoral;left: 238px; top:0px;}
+    50%{background: pink;left: 238px; top: 238px;}
+    75%{background: plum; left:0; top: 238px;}
+    100%{background: purple; left:0px; top:0px;}
+}
+.azuquita{
+    border:5px solid purple;
+    margin-right: 50px;
+    margin-left: 50px;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 200px;
+    top:125px;
+}
+
+.bottom-row{
+    border:5px solid blue;
+    margin-right: 20px;
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    display:flex;
+}
+.gomitas{
+    border:5px solid plum;
+    margin-right: 50px;
+    margin-left: 50px;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 200px;
+    top:355px;
+}
+   
+
+

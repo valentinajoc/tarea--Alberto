@@ -1,0 +1,53 @@
+.pizza{
+    border:5px solid purple;
+    margin-left:40px;
+    width: 500px;
+    height: 500px;
+    position: relative;
+    left: 300px;
+    top:100px;
+    
+}
+.brownie{
+    border:5px solid fuchsia;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+    display:inline-block;
+}
+.tequeno{
+    border:5px solid fuchsia;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 220px;
+    top:0px;
+}
+.papa{
+    border:5px solid fuchsia;
+    margin-right: 20px;
+    margin-left:0px;
+    width: 200px;
+    height: 200px;
+    margin-top: 210px;
+    position:absolute;
+    right:225px;
+}
+
+.toston{
+    border:5px solid fuchsia;
+    margin-right:20px;
+    margin-left: 25px;
+    margin-top: 0px;
+    top:0px;
+    width: 200px;
+    height:200px;
+    left: 220px;
+    position: absolute;
+
+}
